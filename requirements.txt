@@ -1,0 +1,6 @@
+pandapower==2.13.1
+pandas
+scipy
+numpy
+networkx
+boto3
